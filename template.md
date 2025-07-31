@@ -18,4 +18,9 @@
 - If additional notes required,
 - add them here!
 
+### References:
+- Add references to track where inspiration
+- or techniques came from!
+- [Link text](https://google.com).
+
 [//]: # (Comment... leave 1 empty line above!)
